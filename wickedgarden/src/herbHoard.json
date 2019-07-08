@@ -1,0 +1,49 @@
+
+[
+    {
+  "id": 1,
+      "product_name": "Boneset: ",
+      "main_use": "Immune Booster, Antibacterial, and Anti Inflammatory",
+      "binomial_nomenclature": "Eupatorium perfoliatum L.",
+      "medicinal_uses": "Primarily as an alternative to mainstream cold and flu remedies.",
+      "how_to_use": "The traditional dosage for boneset tea was 2 grams of dried leaves and flowers per pint of boiling water",
+      "warning": "It should be taken with considerable caution as it can be harmful in large doses.",
+      "disclaimer": "The information provided is solely based off of personal opionion. I am not a doctor nor certified to give medical advice. I am not responsible for mis-use and conjecture",
+      "img_url": "./Boneset.jpg"
+    },
+    {
+    "id": 2,
+    "product_name": "Cramp Bark: ",
+    "main_use": "Muscle Pain Relief, Menstrual Cramps",
+    "binomial_nomenclature": "Viburnum opulus",
+    "medicinal_uses": "The plant has historically been used to treat kidney pain, mumps disease, swollen glands, eye disorders, and even forms of cancer. It was thought for a long time that the guilder rose possessed magical healing powers due to its overall effectiveness as a homeopathic remedy.",
+    "how_to_use": "2 teaspoonfuls of the dried bark into a cup of water and bring it to boil. Simmer gently for 10-15 minutes. This should be consumed hot three times a day.",
+    "warning": "While it is safe to eat cramp bark in small doses, the plant is can be toxic and needs to be eaten in the correct dosage, as listed in the section above",
+    "disclaimer": "The information provided is solely based off of personal opionion. I am not a doctor nor certified to give medical advice. I am not responsible for mis-use and conjecture",
+    "img_url": "./cramp-bark.jpg"
+    },
+    {
+    "id": 3,
+    "product_name": "Mugwort",
+    "main_use": "Moxibustion, Smudge Sticks and Smoking Mugwort",
+    "binomial_nomenclature": "Artemesia Vulgaris",
+    "medicinal_uses": "Moxibustion is an eastern traditional medicine technique, where a stick made of flammable fibers is lit on one end and applied to pressure points on the skin to stimulate circulation. It can be a powerful treatment for insomnia, palsy, and digestive issues. It is also useful in supporting regular menstruation and joint pain.",
+    "how_to_use": "Typically, 1-2 teaspoons of dried herb is sufficient for infusing tea. It is common for Mugwort to be mixed with other herbs when making tea. One such herb, skullcap may enhance dream activity and improve sleep significantly when used in combination with Mugwort.",
+    "warning": "People with allergies should be cautious when trying Mugwort because of similarities with other allergens. Women should also be careful when using Mugwort, especially if they may become pregnant.",
+    "disclaimer": "The information provided is solely based off of personal opionion. I am not a doctor nor certified to give medical advice. I am not responsible for mis-use and conjecture",
+    "img_url": "./Mugwort.jpg"
+    },
+    {
+    "id": 4,
+    "product_name": "Siberian Ginseng",
+    "main_use": "Physical Performance and Cognitive Enhancement",
+    "binomial_nomenclature": "Eleuthero Root",
+    "medicinal_uses": "enhance physical and mental performance as well as boost the immune system. Recent studies have examined Eleuthero in the treatment of cancer, herpes, HIV, Parkinson’s disease, and bipolar disorder.",
+    "how_to_use": "The standard dose for Eleuthero is between 300 and 1200 mg.",
+    "warning": "Because of its boosting effect on the immune system, Eleuthero should not be taken with immunosuppressants, and people with autoimmune disorders, such as rheumatoid arthritis, lupus, or Crohn’s disease, should not take it.",
+    "disclaimer": "The information provided is solely based off of personal opionion. I am not a doctor nor certified to give medical advice. I am not responsible for mis-use and conjecture",
+    "img_url": "./Siberian-Ginseng.jpg"
+    }
+    
+
+      ]
